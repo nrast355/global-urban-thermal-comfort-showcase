@@ -1,0 +1,47 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+.env
+.env.*
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Research and derived data files
+*.csv
+*.csv.gz
+*.geojson
+*.geojson.gz
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.sqlite
+*.sqlite3
+*.nc
+*.tif
+*.tiff
+*.zip
+
+# Data subdirectories
+data/*.csv
+data/*.csv.gz
+data/*.geojson
+data/*.geojson.gz
+data/*.json
+data/*.xlsx
+data/*.xls
+data/*.parquet
+data/*.feather
+data/migration/*
+
+# Keep the public data documentation
+!data/README.md
