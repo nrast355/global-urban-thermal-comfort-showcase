@@ -57,11 +57,3 @@ global-urban-thermal-comfort-showcase/
 The live application is deployed separately using Streamlit Community Cloud.
 
 [Open the deployed application](https://global-urban-thermal-comfort-zxxax69fft5iuh5ucwml6a.streamlit.app/)
-
-## Author
-
-Liu Hao / 刘昊<br>
-Geography graduate student<br>
-Nanjing University of Information Science & Technology
-
-[GitHub](https://github.com/nrast355)
